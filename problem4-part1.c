@@ -47,5 +47,6 @@ int main() {
   printf("Press any key to continue: ");
   getch();
   closegraph();
+  
   return EXIT_SUCCESS;
 }
