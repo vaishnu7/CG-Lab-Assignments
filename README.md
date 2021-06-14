@@ -16,7 +16,7 @@ This Repository contains the code work of all the assignments given in the Compu
 - select User Accounts > User Accounts > Change My Environment Variables
 - in the Path variable, edit the variable and add the file link that you had copied
 
-## How to Install <graphic.h> library
+## How to Install <graphics.h> library
 - Follow along the link and this should work on your Code::Blocks which you previously installed: [Here](https://youtu.be/VEkAj-xVTKQ)
 - Please remember to select C++  language (for .cpp extension)
 
